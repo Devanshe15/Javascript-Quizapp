@@ -12,7 +12,11 @@ Throughout this project,this guide you through the process of making API request
 quiz app comes with the following features:
 
 Fetching and displaying trivia questions from the API: We'll show you how to make requests to the Open Trivia DB API to get a variety of questions.
+
 Implementing a countdown timer for each question: Users will have a limited amount of time to answer each question, creating a sense of urgency.
+
 Allowing users to select their answer from multiple choices: The app will provide multiple options for each question, and users can select their answers.
+
 Providing instant feedback on correct and incorrect answers: Users will know immediately whether their answer was right or wrong.
+
 Calculating and displaying the final score at the end of the quiz: After answering all the questions, users will receive their total score.
